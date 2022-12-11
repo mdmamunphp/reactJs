@@ -1,0 +1,39 @@
+[03-Oct-2020 15:21:47 America/New_York] PHP Notice:  Undefined index: id in /home/mamunboo/react.mamunforever.com/api/users_delete.php on line 22
+[03-Oct-2020 15:23:07 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mamunboo/react.mamunforever.com/api/role_get.php on line 15
+[03-Oct-2020 15:23:07 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mamunboo/react.mamunforever.com/api/role_get.php on line 19
+[03-Oct-2020 15:23:07 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on null in /home/mamunboo/react.mamunforever.com/api/role_get.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/mamunboo/react.mamunforever.com/api/role_get.php on line 20
+[03-Oct-2020 15:23:07 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mamunboo/react.mamunforever.com/api/users_get.php on line 15
+[03-Oct-2020 15:23:07 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mamunboo/react.mamunforever.com/api/users_get.php on line 19
+[03-Oct-2020 15:23:07 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on null in /home/mamunboo/react.mamunforever.com/api/users_get.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/mamunboo/react.mamunforever.com/api/users_get.php on line 20
+[03-Oct-2020 15:25:54 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mamunboo/react.mamunforever.com/api/role_get.php on line 15
+[03-Oct-2020 15:25:54 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mamunboo/react.mamunforever.com/api/role_get.php on line 19
+[03-Oct-2020 15:25:54 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on null in /home/mamunboo/react.mamunforever.com/api/role_get.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/mamunboo/react.mamunforever.com/api/role_get.php on line 20
+[03-Oct-2020 15:26:00 America/New_York] PHP Notice:  Undefined index: id in /home/mamunboo/react.mamunforever.com/api/users_delete.php on line 22
+[03-Oct-2020 15:26:03 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mamunboo/react.mamunforever.com/api/role_get.php on line 15
+[03-Oct-2020 15:26:03 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/mamunboo/react.mamunforever.com/api/role_get.php on line 19
+[03-Oct-2020 15:26:03 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on null in /home/mamunboo/react.mamunforever.com/api/role_get.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/mamunboo/react.mamunforever.com/api/role_get.php on line 20
+[03-Oct-2020 16:05:03 America/New_York] PHP Notice:  Undefined variable: id in /home/mamunboo/react.mamunforever.com/api/role_post.php on line 27
+[22-Nov-2020 02:36:05 America/New_York] PHP Notice:  Undefined index: id in /home/mamunboo/react.mamunforever.com/api/net_salary_get.php on line 24
+[22-Nov-2020 02:36:05 America/New_York] PHP Notice:  Undefined index: m_id in /home/mamunboo/react.mamunforever.com/api/net_salary_get.php on line 25
+[22-Nov-2020 02:36:15 America/New_York] PHP Notice:  Undefined index: employee_id in /home/mamunboo/react.mamunforever.com/api/employee_salary_post.php on line 23
+[22-Nov-2020 02:36:15 America/New_York] PHP Notice:  Undefined index: user_id in /home/mamunboo/react.mamunforever.com/api/employee_salary_post.php on line 24
+[22-Nov-2020 02:36:15 America/New_York] PHP Notice:  Undefined index: month_id in /home/mamunboo/react.mamunforever.com/api/employee_salary_post.php on line 25
+[22-Nov-2020 02:36:15 America/New_York] PHP Notice:  Undefined index: bill_make_date in /home/mamunboo/react.mamunforever.com/api/employee_salary_post.php on line 26
+[22-Nov-2020 02:36:15 America/New_York] PHP Notice:  Undefined index: net_salary in /home/mamunboo/react.mamunforever.com/api/employee_salary_post.php on line 27
+[22-Nov-2020 02:36:21 America/New_York] PHP Notice:  Undefined index: employee_id in /home/mamunboo/react.mamunforever.com/api/employee_salary_post.php on line 23
+[22-Nov-2020 02:36:21 America/New_York] PHP Notice:  Undefined index: user_id in /home/mamunboo/react.mamunforever.com/api/employee_salary_post.php on line 24
+[22-Nov-2020 02:36:21 America/New_York] PHP Notice:  Undefined index: month_id in /home/mamunboo/react.mamunforever.com/api/employee_salary_post.php on line 25
+[22-Nov-2020 02:36:21 America/New_York] PHP Notice:  Undefined index: bill_make_date in /home/mamunboo/react.mamunforever.com/api/employee_salary_post.php on line 26
+[22-Nov-2020 02:36:21 America/New_York] PHP Notice:  Undefined index: net_salary in /home/mamunboo/react.mamunforever.com/api/employee_salary_post.php on line 27
